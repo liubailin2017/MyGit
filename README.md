@@ -1,5 +1,5 @@
-# 或许是介绍Android Studio使用Git最详细的文章
-**欢迎访问我的[个人博客网站](http://www.wensibo.top)**
+# Android Studio使用Git
+**欢迎访问作者的[个人博客网站](http://www.wensibo.top)**
 ## 前言
 **本文较长，图片很多很多，流量党慎入**
 使用Git已经有一段时间了，但是之前都是使用`Git Bash`，在Android Studio上使用Git一开始不是很习惯，就像用惯了SVN来使用Git一样，琢磨了一段时间的Android Studio，也看了我觉得为数不多但是很有质量的介绍AS的书籍 `《Android Studio实战 快速、高效地构建Android应用》`，强烈安利大家哦！所以就写了这篇文章跟大家一起学习如何在Android Studio高效地使用Git。另外如果大家想要拿来学习的话可以直接fork[我的项目](https://github.com/Wensibob/MyGit) 。
